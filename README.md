@@ -4,7 +4,7 @@
 [fork-url]: https://github.com/yuntaoshou/MCGRL/network/members
 [AKGR-url]: https://github.com/yuntaoshou/MCGRL
 
-# Masked contrastive graph representation learning for age estimation
+# Masked contrastive graph representation learning for age estimation (copy, morph executable version)
 By Yuntao Shou, Xiangyong Cao, Huan Liu, Deyu Meng. [[arXiv link]](https://arxiv.org/abs/2306.17798)
 
 [![GitHub stars][stars-img]][stars-url]
